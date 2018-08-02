@@ -1,0 +1,27 @@
+{
+  "name": "new",
+  "version": "1.0.0",
+  "description": "ArmDaily News Web Page",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "engines": {
+      "npm":"6.2.0",
+      "node":"10.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jor2611/ArmDaily.git"
+  },
+  "author": "Jora Khachatryan <jor.khachatryan@inbox.ru>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jor2611/ArmDaily/issues"
+  },
+  "homepage": "https://github.com/Jor2611/ArmDaily#readme",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
